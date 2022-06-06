@@ -1,0 +1,186 @@
+{
+    "data" :[{
+        "reviewPlatform" : "Google",
+        "colorCode" : "#3cba54"
+    },{
+        "reviewPlatform" : "Yelp",
+        "colorCode" : "#da2730"
+    },{
+        "reviewPlatform" : "Facebook",
+        "colorCode" : "#3c5a98"
+    },{
+        "reviewPlatform" : "Agoda",
+        "colorCode" : "#8f6bd6"
+    },{
+        "reviewPlatform" : "Airbnb",
+        "colorCode" : "#ff5a63"
+    },{
+        "reviewPlatform" : "AlternativeTo",
+        "colorCode" : "#1174a8"
+    },{
+        "reviewPlatform" : "Angies List",
+        "colorCode" : "#75ae44"
+    },{
+        "reviewPlatform" : "Avvo",
+        "colorCode" : "#01457b"
+    },{
+        "reviewPlatform" : "BBB",
+        "colorCode" : "#136896"
+    },{
+        "reviewPlatform" : "Booking",
+        "colorCode" : "#203a76"
+    },{
+        "reviewPlatform" : "Capterra",
+        "colorCode" : "#017ac3"
+    },{
+        "reviewPlatform" : "CarGurus",
+        "colorCode" : "#ef3842"
+    },{
+        "reviewPlatform" : "Cars.com",
+        "colorCode" : "#3f176f"
+    },{
+        "reviewPlatform" : "Citysearch",
+        "colorCode" : "#208fc6"
+    },{
+        "reviewPlatform" : "Consumer Affairs",
+        "colorCode" : "#186da3"
+    },{
+        "reviewPlatform" : "CreditKarma",
+        "colorCode" : "#3cdea7"
+    },{
+        "reviewPlatform" : "Customer Lobby",
+        "colorCode" : "#ff9e4a"
+    },{
+        "reviewPlatform" : "DealerRater",
+        "colorCode" : "#525caa"
+    },{
+        "reviewPlatform" : "eBay",
+        "colorCode" : "#0768d2"
+    },{
+        "reviewPlatform" : "Edmunds",
+        "colorCode" : "#0c81e4"
+    },{
+        "reviewPlatform" : "Expedia",
+        "colorCode" : "#fec50b"
+    },{
+        "reviewPlatform" : "G2Crowd",
+        "colorCode" : "#456474"
+    },{
+        "reviewPlatform" : "Glassdoor",
+        "colorCode" : "#81b024"
+    },{
+        "reviewPlatform" : "GreatSchools",
+        "colorCode" : "#27abe2"
+    },{
+        "reviewPlatform" : "HealthGrades",
+        "colorCode" : "#0302e9"
+    },{
+        "reviewPlatform" : "HomeAdvisor",
+        "colorCode" : "#5e707a"
+    },{
+        "reviewPlatform" : "Homestars",
+        "colorCode" : "#1eacee"
+    },{
+        "reviewPlatform" : "Hotels",
+        "colorCode" : "#cb2d31"
+    },{
+        "reviewPlatform" : "Houzz",
+        "colorCode" : "#4ebc16"
+    },{
+        "reviewPlatform" : "Indeed",
+        "colorCode" : "#2265f3"
+    },{
+        "reviewPlatform" : "Insider Pages",
+        "colorCode" : "#438eb5"
+    },{
+        "reviewPlatform" : "Jet",
+        "colorCode" : "#8101ff"
+    },{
+        "reviewPlatform" : "Lawyers.com",
+        "colorCode" : "#0175c9"
+    },{
+        "reviewPlatform" : "LendingTree",
+        "colorCode" : "#7fca56"
+    },{
+        "reviewPlatform" : "Martindale",
+        "colorCode" : "#000000"
+    },{
+        "reviewPlatform" : "NewEgg",
+        "colorCode" : "#f9b12b"
+    },{
+        "reviewPlatform" : "Niche",
+        "colorCode" : "#67ab59"
+    },{
+        "reviewPlatform" : "OpenRice",
+        "colorCode" : "#ffcb05"
+    },{
+        "reviewPlatform" : "OpenTable",
+        "colorCode" : "#dd3846"
+    },{
+        "reviewPlatform" : "Product Hunt",
+        "colorCode" : "#da5532"
+    },{
+        "reviewPlatform" : "ProductReview",
+        "colorCode" : "#7fb829"
+    },{
+        "reviewPlatform" : "RateMDs",
+        "colorCode" : "#539ea2"
+    },{
+        "reviewPlatform" : "Siftery",
+        "colorCode" : "#4372d6"
+    },{
+        "reviewPlatform" : "Sitejabber",
+        "colorCode" : "#153e6a"
+    },{
+        "reviewPlatform" : "Software Advice",
+        "colorCode" : "#f9b150"
+    },{
+        "reviewPlatform" : "The Knot",
+        "colorCode" : "#5bb6eb"
+    },{
+        "reviewPlatform" : "Thumbtack",
+        "colorCode" : "#2e3033"
+    },{
+        "reviewPlatform" : "TripAdvisor",
+        "colorCode" : "#79b151"
+    },{
+        "reviewPlatform" : "Trulia",
+        "colorCode" : "#22c064"
+    },{
+        "reviewPlatform" : "TrustedShops",
+        "colorCode" : "#010101"
+    },{
+        "reviewPlatform" : "Trustpilot",
+        "colorCode" : "#01b67b"
+    },{
+        "reviewPlatform" : "TrustRadius",
+        "colorCode" : "#08378e"
+    },{
+        "reviewPlatform" : "Vitals",
+        "colorCode" : "#3d1a52"
+    },{
+        "reviewPlatform" : "Walmart",
+        "colorCode" : "#ffc222"
+    },{
+        "reviewPlatform" : "WeddingWire",
+        "colorCode" : "#17b6bc"
+    },{
+        "reviewPlatform" : "Yell",
+        "colorCode" : "#1e1e1c"
+    },{
+        "reviewPlatform" : "Yellow Pages",
+        "colorCode" : "#222020"
+    },{
+        "reviewPlatform" : "Zillow",
+        "colorCode" : "#0174e6"
+    },{
+        "reviewPlatform" : "ZocDoc",
+        "colorCode" : "#13264a"
+    },{
+        "reviewPlatform" : "Zomato",
+        "colorCode" : "#d2194a"
+    },{
+        "reviewPlatform" : "Playstore",
+        "colorCode" : "#4bd0c6"
+    }]
+}
